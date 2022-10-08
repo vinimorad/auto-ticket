@@ -1,5 +1,5 @@
 ## ✏ Sobre o projeto
-Esse projeto faz parte de um trabalho da faculdade onde o tema é desenvolver um sistema gerenciador de vendas de ingressos, todo o layout foi desenvolvido utilizando o figma.  
+Esse projeto faz parte de um trabalho da faculdade onde o tema é desenvolver um sistema gerenciador de vendas de ingressos, todo o layout foi desenvolvido utilizando o Figma.  
 
 ## 🎨 Layout
 ![ticketfaculdade](https://user-images.githubusercontent.com/61718764/194677099-25a6d790-0355-4694-88f5-d1cce60a8404.gif)
