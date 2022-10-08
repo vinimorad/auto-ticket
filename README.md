@@ -6,7 +6,7 @@ Esse projeto faz parte de um trabalho da faculdade onde o tema é desenvolver um
 
 
 ## 🛠 Tecnologias
-- [React](https://pt-br.reactjs.org/)
+- [React](https://pt-br.reactjs.org/) 
 - [Styled Components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node](https://nodejs.org/en/)
